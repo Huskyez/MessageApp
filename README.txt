@@ -1,0 +1,1 @@
+You can find the binaries resulted from build in: SolutionDir\bin\Platform(x64,Win32)\Configuration(Debug, Release). SolutionDir is your path to the solution directory.
