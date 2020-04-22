@@ -1,0 +1,2 @@
+D:\MessageApp\MessageApp\bin\x64\Debug\MessageCommunicationLib.pdb
+D:\MessageApp\MessageApp\MessageCommunicationLib\x64\Debug\MessageCommunicationLib.pdb
